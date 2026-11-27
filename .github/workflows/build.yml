@@ -20,5 +20,5 @@ jobs:
             MontySetup32.exe
             MontyShell64.exe
             MontyShell32.exe
-            WindowLookChangerx64.exe
-            WindowLookChangerx32.exe
+            WindowLookChanger64.exe
+            WindowLookChanger32.exe
